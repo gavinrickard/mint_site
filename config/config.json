@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x89dC21803D48023A7c3b2731F36D5755AE9Ea855",
+  "SCAN_LINK": "https://polygonscan.com/address/0x89dc21803d48023a7c3b2731f36d5755ae9ea855",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Poly Droids",
+  "SYMBOL": "DROID",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 40000000000000000000,
+  "DISPLAY_COST": 40,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/poly-droids",
+  "SHOW_BACKGROUND": true
+}
